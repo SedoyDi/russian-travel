@@ -1,0 +1,29 @@
+.intro {
+    display: flex;
+    flex-direction: column;
+    width: 288px;
+    height: 100%;
+    margin: 64px auto 0;
+}
+
+@media screen and (min-width: 768px) {
+    .intro {
+        min-width: 720px;
+        margin-top: 110px;
+    }
+    
+}
+
+@media screen and (min-width: 1024px) {
+    .intro {
+        min-width: 928px;
+        margin-top: 114px;
+    }
+}
+
+@media screen and (min-width: 1280px) {
+    .intro {
+        min-width: 984px;
+    }
+}
+
