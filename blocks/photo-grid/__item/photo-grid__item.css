@@ -1,0 +1,24 @@
+.photo-grid__item {
+    align-self: center;
+    justify-self: center;
+    width: 288px;
+    height: 100%;
+}
+
+@media screen and (min-width: 768px) {
+    .photo-grid__item {
+        width: 352px;
+    }    
+}
+
+@media screen and (min-width: 1024px) {
+    .photo-grid__item {
+        width: 300px;
+    }
+} 
+
+@media screen and (min-width: 1280px) {
+    .photo-grid__item {
+        width: 284px;
+    }
+}
