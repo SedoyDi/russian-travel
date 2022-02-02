@@ -1,7 +1,6 @@
 .place {
     display: grid;
     width: 320px;
-    height: 100%;
     margin: 0 auto 50px;
 }
 
