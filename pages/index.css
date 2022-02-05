@@ -1,4 +1,5 @@
 @import url(../blocks/body/body.css);
+@import url(../vendor/Fonts/fonts.css);
 @import url(../blocks/page/page.css);
 /*----------header----------*/
 @import url(../blocks/header/header.css);
