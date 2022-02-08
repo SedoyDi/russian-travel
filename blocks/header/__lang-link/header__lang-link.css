@@ -7,9 +7,10 @@
     font-size: 18px;
     line-height: 20px;
     margin: 14px 9px 8px;
-}
-.header__lang-link:visited {
     text-decoration: none;
+}
+.header__lang-link:hover {
+    opacity: 0.8;
 }
 
 .header__lang-link:last-of-type {
